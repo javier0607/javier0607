@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Javier Mariscal
+- 👀 I’m interested in creating websites and joining a company in the near future to begin my career. 
+- 🌱 I’m currently learning full stack development at the UCF bootcamp and doing college at Valencia. 
+- 📫 How to reach me ... Email me at javi.mariscal13@gmail.com
